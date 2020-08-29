@@ -8,6 +8,7 @@ This project is build for Vue.js 2 + vue-router + webpack2 + iView 2, just insta
 npm install
 ```
 ## Run
+
 ### Development
 ```bush
 // For the first time, run init to create index.html
